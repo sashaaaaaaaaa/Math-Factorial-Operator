@@ -1,0 +1,23 @@
+=begin pod
+
+=NAME    Math::Factoral::Operator
+=AUTHOR  y <y>
+=VERSION 0.0.0
+
+=head1 Description
+
+Nondescript
+
+=head1 Installation
+
+Install this module through L<zef|https://github.com/ugexe/zef>:
+
+=begin code :lang<sh>
+zef install Math::Factoral::Operator
+=end code
+
+=head1 License
+
+This module is distributed under the terms of the git-0.
+
+=end pod

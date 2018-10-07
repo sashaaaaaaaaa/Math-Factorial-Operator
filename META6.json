@@ -1,0 +1,25 @@
+{
+  "api": "0",
+  "authors": [
+    "y <y>"
+  ],
+  "depends": [
+    
+  ],
+  "description": "Nondescript",
+  "license": "git-0",
+  "meta-version": 0,
+  "name": "Math::Factoral::Operator",
+  "perl": "6.y",
+  "provides": {
+    "main.p6": "lib/main.p6.pm6"
+  },
+  "resources": [
+    
+  ],
+  "source-url": "https://github.com/ribbon-otter/Math-Factorial-Operator",
+  "tags": [
+    
+  ],
+  "version": "0.0.0"
+}
