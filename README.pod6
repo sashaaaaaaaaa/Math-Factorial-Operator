@@ -1,12 +1,12 @@
 =begin pod
 
 =NAME    Math::Factoral::Operator
-=AUTHOR  y <y>
+=AUTHOR Ribbon Otter 
 =VERSION 0.0.0
 
 =head1 Description
 
-Nondescript
+This project has get to be worked on at all besides the initial creation of the project
 
 =head1 Installation
 
