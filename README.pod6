@@ -1,6 +1,6 @@
 =begin pod
 
-=NAME    Math::Factoral::Operator
+=NAME    Math::Factorial::Operator
 =AUTHOR Ribbon Otter 
 =VERSION 0.1.0
 
@@ -13,7 +13,7 @@ binds tighter than the exponent, **. Thus, 5**2! = 5**2  and not 25!.
 Install this module through L<zef|https://github.com/ugexe/zef>:
 
 =begin code :lang<sh>
-zef install Math::Factoral::Operator
+zef install Math::Factorial::Operator
 =end code
 
 =head1 License

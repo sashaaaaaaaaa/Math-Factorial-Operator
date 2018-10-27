@@ -8,10 +8,10 @@
   "description": "Supplies a factorial post-fix operator. Then 5!=120",
   "license": "Unlicense",
   "meta-version": 0,
-  "name": "Math::Factoral::Operator",
+  "name": "Math::Factorial::Operator",
   "perl": "6.c",
   "provides": {
-    "Math::Factoral::Operator": "lib/Factorial.pm6"
+    "Math::Factorial::Operator": "lib/Factorial.pm6"
   },
   "resources": [
     
