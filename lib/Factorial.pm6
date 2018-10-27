@@ -5,7 +5,9 @@ use v6.c;
 unit module Factorial;
 
 #factorial 
-sub postfix:<!>(Int $operand where $operand >= 0) is export {
+sub postfix:<!>(Int $operand where $operand >= 0)
+		is tighter(&infix:<**>)
+	   	is export {
 	[*] 1..$operand;
 }
 
