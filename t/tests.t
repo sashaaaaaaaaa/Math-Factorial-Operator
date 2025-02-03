@@ -6,7 +6,7 @@ use Factorial;
 plan(6);
 
 lives-ok {15!};
-dies-ok {15.5!};
+throws-like { EVAL '15.5!' }, X::TypeCheck::Argument;
 dies-ok {(1/5)!};
 subtest(q[test results], {
 
